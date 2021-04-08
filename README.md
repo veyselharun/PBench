@@ -1,12 +1,12 @@
 
-# PBench: A Parallel, Real-Time Benchmark Suite
+# PBench
 
-PBench is a parallel, real-time benchmark suite esapecially developed to help WCET analysis studies. It is a collection of parallel programs which can be used to compare real-time platforms and WCET analysis tools. All programs in the benchmark suite are open source and licensed under the MIT license.
+PBench is a parallel worst-case execution time (WCET) benchmark suite. Its main aim is to help WCET studies from multithreaded perspective. It is a collection of parallel programs which can be used to compare real-time platforms and WCET analysis tools. All programs in the benchmark suite are open source.
 
 
 ## Citing PBench
 
-The paper of PBench can be accessed through the link below.
+The paper of PBench titled "PBench: A Parallel, Real-Time Benchmark Suite" can be accessed through the link below.
 
 https://www.acperpro.com/document/ISITES2018ID37
 
